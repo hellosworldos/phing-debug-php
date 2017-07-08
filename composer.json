@@ -1,5 +1,5 @@
 {
-  "name": "hellosworldos/phing-webserver",
+  "name": "hellosworldos/phing-webserver-debug",
   "type": "library",
   "license": "MIT",
   "description": "Phing targets to initialize debugging inside docker container with hellosworldos/webserver",
